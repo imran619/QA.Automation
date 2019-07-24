@@ -1,0 +1,15 @@
+{
+    "URL": "http://demo.guru99.com/test/newtours/",
+    "FIRST_NAME": "James",
+    "LAST_NAME":"Snow",
+    "PHONE":"44558775555",
+    "EMAIL":"snow1234@gmail.com",
+    "ADDRESS":"Hill Sreet",
+    "CITY":"London",
+    "STATE":"East",
+    "POSTAL_CODE":"11850",
+    "COUNTRY":"FRANCE",
+    "USER_NAME":"tim1234",
+	"PASSWORD" : "123",
+	"CONFIRM_PASSWORD":"123"
+}
